@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202604301228565PXUTT</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202604301228563ML8P0</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SDA.Química y medioambiente</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Trinidad Esther Narváez Fernández</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>En este proyecto combinaremos Química y Medioambiente, aprendiendo como se benefician y dañan mutuamente la una de la otra y cómo se utilizan de forma conjunta desde hace siglos para diferentes cosas que usamos día a día en nuestra vida. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777543207654</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1777536945699-c12zwcztx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Química y medioambiente</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Química y medioambiente</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777536945699-c12zwcztx</odePageId>
+      <odeBlockId>block-1777537378441-fy71goony</odeBlockId>
+      <blockName>Introducción. Química y medioambiente.</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777536945699-c12zwcztx</odePageId>
+          <odeBlockId>block-1777537378441-fy71goony</odeBlockId>
+          <odeIdeviceId>idevice-1777537378440-hyuhzqxyl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 977px;"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_ Alumnos en laboratorio.png" width="977" height="533" alt="" />
+<figcaption class="figcaption"><span class="author">Imagen creada por IA</span>. <span class="title"><em>Práctica de laboratorio</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Gemini / Nanobanana. Uso educativo.</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p></p>
+<figure class="exe-figure exe-media position-center" style="width: 1062px;" id="fig_pao8tczg0">
+<figcaption class="figcaption header"><strong>SDA. Química y medioambiente</strong></figcaption>
+<iframe width="1062" height="537" src="{{context_path}}/content/resources/2.1 Química y medioambiente  (1).pdf" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">Trinidad Esther Narváez Fernández</span>. <span class="title"><em>Química y medioambiente. </em></span></figcaption>
+</figure>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777537378440-hyuhzqxyl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 977px;\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_ Alumnos en laboratorio.png\" width=\"977\" height=\"533\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Imagen creada por IA</span>. <span class=\"title\"><em>Práctica de laboratorio</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Gemini / Nanobanana. Uso educativo.</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p></p>\n<figure class=\"exe-figure exe-media position-center\" style=\"width: 1062px;\" id=\"fig_pao8tczg0\">\n<figcaption class=\"figcaption header\"><strong>SDA. Química y medioambiente</strong></figcaption>\n<iframe width=\"1062\" height=\"537\" src=\"{{context_path}}/content/resources/2.1 Química y medioambiente  (1).pdf\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">Trinidad Esther Narváez Fernández</span>. <span class=\"title\"><em>Química y medioambiente. </em></span></figcaption>\n</figure>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777537840396-38f04hv6t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Consejos de seguridad</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Consejos de seguridad</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777537840396-38f04hv6t</odePageId>
+      <odeBlockId>block-1777537842157-v06v5i3d2</odeBlockId>
+      <blockName>Seguridad digital en el aula</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777537840396-38f04hv6t</odePageId>
+          <odeBlockId>block-1777537842157-v06v5i3d2</odeBlockId>
+          <odeIdeviceId>idevice-1777537842155-5j6o9x4iz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para trabajar en internet es importante que tengamos en cuenta la responsabilidad y el cuidado que requiere, protegiendo nuestra información personal, respetando al resto de usuarios y haciendo un uso adecuado de los recursos. Por ello, estos consejos que os adjunto os ayudarán a trabajar de forma segura y respetuosa. </p>
+<figure class="exe-figure exe-media position-center" style="width: 1000px;" id="fig_yda5wr603">
+<figcaption class="figcaption header"><strong>Seguridad digital</strong></figcaption>
+<iframe width="1000" height="500" src="{{context_path}}/content/resources/Infografía seguridad digital .pdf" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">Esther Narváez Fernández</span>. <span class="title"><em>Consejos de seguridad digital en el aula </em></span></figcaption>
+</figure>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777537842155-5j6o9x4iz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para trabajar en internet es importante que tengamos en cuenta la responsabilidad y el cuidado que requiere, protegiendo nuestra información personal, respetando al resto de usuarios y haciendo un uso adecuado de los recursos. Por ello, estos consejos que os adjunto os ayudarán a trabajar de forma segura y respetuosa. </p>\n<figure class=\"exe-figure exe-media position-center\" style=\"width: 1000px;\" id=\"fig_yda5wr603\">\n<figcaption class=\"figcaption header\"><strong>Seguridad digital</strong></figcaption>\n<iframe width=\"1000\" height=\"500\" src=\"{{context_path}}/content/resources/Infografía seguridad digital .pdf\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">Esther Narváez Fernández</span>. <span class=\"title\"><em>Consejos de seguridad digital en el aula </em></span></figcaption>\n</figure>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777538330659-sab5lv886</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos para el docente</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el docente</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777538330659-sab5lv886</odePageId>
+      <odeBlockId>block-1777538704081-aiucm2l39</odeBlockId>
+      <blockName>Recursos digitales para docentes</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777538330659-sab5lv886</odePageId>
+          <odeBlockId>block-1777538704081-aiucm2l39</odeBlockId>
+          <odeIdeviceId>idevice-1777538704079-pyt3wrl3o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aquí dejo los recursos que yo, como docente, encuentro con mayor versatilidad para usar en clase. Todos ellos dan acceso o crean recursos visualmente atractivos y útiles, que ayudan a sintetizar la información de forma amena y práctica, ayudando a retener mejor los conceptos y a repasarlos en un vistazo rápido. </p>
+<p><br /></p>
+<div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/wp0epbcl592bjjfn" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write"></iframe></p>
+<div style="display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;"><a href="https://padlet.com?ref=embed" style="display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;" target="_blank" rel="noopener"><span aria-hidden="" style="color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;">Made with</span><img src="https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png" height="12" style="padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;" alt="Hecho con Padlet" /></a></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777538704079-pyt3wrl3o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí dejo los recursos que yo, como docente, encuentro con mayor versatilidad para usar en clase. Todos ellos dan acceso o crean recursos visualmente atractivos y útiles, que ayudan a sintetizar la información de forma amena y práctica, ayudando a retener mejor los conceptos y a repasarlos en un vistazo rápido. </p>\n<p><br /></p>\n<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/wp0epbcl592bjjfn\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\"></iframe></p>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;\"><a href=\"https://padlet.com?ref=embed\" style=\"display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;\" target=\"_blank\" rel=\"noopener\"><span aria-hidden=\"\" style=\"color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;\">Made with</span><img src=\"https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png\" height=\"12\" style=\"padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;\" alt=\"Hecho con Padlet\" /></a></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777538342112-psgvv2rrx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos para el alumnado</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777538342112-psgvv2rrx</odePageId>
+      <odeBlockId>block-1777538343383-sv4ih586x</odeBlockId>
+      <blockName>Recursos digitales para el alumnado</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777538342112-psgvv2rrx</odePageId>
+          <odeBlockId>block-1777538343383-sv4ih586x</odeBlockId>
+          <odeIdeviceId>idevice-1777538343381-k6ilb20ng</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aquí os dejo unos recursos que os ayudarán a comenzar para realizar vuestro trabajo en grupo. En el tablero encontraréis información de todo tipo, desde páginas web y vídeos que os ayudarán a encontrar los datos que necesitáis hasta juegos que os ayudarán a integrarla. Usadla con cabeza y completadla con vuestras búsquedas propias en la web.</p>
+<p><br /></p>
+<p><br /></p>
+<p><iframe width="930px" height="620px" frameborder="0" noresize="noresize" src="https://www.symbaloo.com/embed/shared/AAAAAaBAOS8AA41-5EMHvw=="></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777538343381-k6ilb20ng","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí os dejo unos recursos que os ayudarán a comenzar para realizar vuestro trabajo en grupo. En el tablero encontraréis información de todo tipo, desde páginas web y vídeos que os ayudarán a encontrar los datos que necesitáis hasta juegos que os ayudarán a integrarla. Usadla con cabeza y completadla con vuestras búsquedas propias en la web.</p>\n<p><br /></p>\n<p><br /></p>\n<p><iframe width=\"930px\" height=\"620px\" frameborder=\"0\" noresize=\"noresize\" src=\"https://www.symbaloo.com/embed/shared/AAAAAaBAOS8AA41-5EMHvw==\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777539111883-naceadjgb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Asociamos tareas a criterios de evaluación </pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Asociamos tareas a criterios de evaluación </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777539111883-naceadjgb</odePageId>
+      <odeBlockId>block-1777539220739-3i3fuorwg</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777539111883-naceadjgb</odePageId>
+          <odeBlockId>block-1777539220739-3i3fuorwg</odeBlockId>
+          <odeIdeviceId>idevice-1777539220737-p7dl3qbls</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Antes de comenzar las actividades de esta SDA, estableceremos una relación entre lo que evaluaremos y la actividad a realizar por el alumno, dando sentido al proceso enseñanza-aprendizaje y garantizando el desarrollo de las competencias y criterios establecidos en el currículo. En el siguiente documento se muestra de manera estructurada la vinculación de cada una de las actividades con los criterios de evaluación, tipo de agrupamiento, tiempo estimado y herramientas a usar. </p>
+<figure class="exe-figure exe-media position-center" style="width: 1081px;" id="fig_9s9nd1vnj">
+<figcaption class="figcaption header"><strong>Criterios de evaluación </strong></figcaption>
+<iframe width="1081" height="597" src="{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluación.docx.pdf" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">Trinidad Esther Narváez Fernández</span>. <span class="title"><em>Asociamos tareas a criterios de evaluación </em></span></figcaption>
+</figure>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777539220737-p7dl3qbls","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Antes de comenzar las actividades de esta SDA, estableceremos una relación entre lo que evaluaremos y la actividad a realizar por el alumno, dando sentido al proceso enseñanza-aprendizaje y garantizando el desarrollo de las competencias y criterios establecidos en el currículo. En el siguiente documento se muestra de manera estructurada la vinculación de cada una de las actividades con los criterios de evaluación, tipo de agrupamiento, tiempo estimado y herramientas a usar. </p>\n<figure class=\"exe-figure exe-media position-center\" style=\"width: 1081px;\" id=\"fig_9s9nd1vnj\">\n<figcaption class=\"figcaption header\"><strong>Criterios de evaluación </strong></figcaption>\n<iframe width=\"1081\" height=\"597\" src=\"{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluación.docx.pdf\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">Trinidad Esther Narváez Fernández</span>. <span class=\"title\"><em>Asociamos tareas a criterios de evaluación </em></span></figcaption>\n</figure>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777539634710-wnhswqmwg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal de las actividades</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal de las actividades</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777539634710-wnhswqmwg</odePageId>
+      <odeBlockId>block-1777539768598-pugvk70ty</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777539634710-wnhswqmwg</odePageId>
+          <odeBlockId>block-1777539768598-pugvk70ty</odeBlockId>
+          <odeIdeviceId>idevice-1777539768596-2ochy4gx8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La secuencia para este proyecto permitirá al alumnado construir el conocimiento de forma activa y participativa, a través del uso de las herramientas digitales, además de facilitar la compresión de los conceptos que queremos afianzar con el mismo. </p>
+<p><br /></p>
+<div style="width: 100%;">
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe width="1200" height="675" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="7. Línea temporal" frameborder="0" src="https://view.genially.com/69e36e0120cd0ef91eac2b91" type="text/html" allowscriptaccess="always" allowfullscreen="allowfullscreen" scrolling="yes" allownetworking="all"></iframe></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777539768596-2ochy4gx8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La secuencia para este proyecto permitirá al alumnado construir el conocimiento de forma activa y participativa, a través del uso de las herramientas digitales, además de facilitar la compresión de los conceptos que queremos afianzar con el mismo. </p>\n<p><br /></p>\n<div style=\"width: 100%;\">\n<div style=\"position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;\"><iframe width=\"1200\" height=\"675\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" title=\"7. Línea temporal\" frameborder=\"0\" src=\"https://view.genially.com/69e36e0120cd0ef91eac2b91\" type=\"text/html\" allowscriptaccess=\"always\" allowfullscreen=\"allowfullscreen\" scrolling=\"yes\" allownetworking=\"all\"></iframe></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777539729917-puwriws6q</odePageId>
+  <odeParentPageId>page-1777539634710-wnhswqmwg</odeParentPageId>
+  <pageName>1. Práctica de laboratorio</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Práctica de laboratorio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Práctica de laboratorio</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777539729917-puwriws6q</odePageId>
+      <odeBlockId>block-1777540447674-6dibf4dwd</odeBlockId>
+      <blockName>Práctica en el laboratorio</blockName>
+      <iconName>experiment</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777539729917-puwriws6q</odePageId>
+          <odeBlockId>block-1777540447674-6dibf4dwd</odeBlockId>
+          <odeIdeviceId>idevice-1777540447672-ty58fnloh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_Práctica de laboratorio.png" width="100%" alt="" />
+<figcaption class="figcaption"><span class="author">Imagen generada por IA</span>. <span class="title"><em>Práctica de laboratorio</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Gemini / Nanobanana. Uso educativo. </span><span class="sep">)</span></span></figcaption>
+</figure>
+<p><strong>Organización: </strong></p>
+<ul>
+<li>Tiempo: 1 hora.</li>
+<li>Trabajo: en 6 grupos de 5 personas que trabajarán posteriormente también en las exposiciones. </li>
+<li>Lugar: Laboratorio de química</li>
+</ul>
+<p><strong>Material: </strong></p>
+<ul>
+<li>Material de laboratorio.</li>
+<li>Reactivos. </li>
+<li>Cuaderno del alumno.</li>
+</ul>
+<p><strong>Prácticas a realizar por grupos:</strong> </p>
+<ol>
+<li>Quitar manchas de óxido en tela según la cultura tradicional, con sustancias naturales, mejores para el medioambiente. </li>
+<li>Disolución de CuSO4 para cristalizar, demostrando un cambio físico, no químico de la sustancia. </li>
+<li>Limpieza de plata usando bicarbonato, buscando la reacción que se produce. </li>
+<li>Teñir una tela con sal añadida y otra sin ella, para fijar el color y observar las diferencias. </li>
+<li>Preparar jabón con método tradicional. Buscar la reacción que se produce.</li>
+<li>Investigar la reacción de la cal (ampliamente usada en Andalucía) y el uso del vinagre para limpiar los cristales. </li>
+</ol>
+<p>Tras la realización de la práctica es importante que cada grupo deje ordenado y limpio su puesto de trabajo, manteniendo siempre las normas de seguridad en el laboratorio. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777540447672-ty58fnloh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_Práctica de laboratorio.png\" width=\"100%\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Imagen generada por IA</span>. <span class=\"title\"><em>Práctica de laboratorio</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Gemini / Nanobanana. Uso educativo. </span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><strong>Organización: </strong></p>\n<ul>\n<li>Tiempo: 1 hora.</li>\n<li>Trabajo: en 6 grupos de 5 personas que trabajarán posteriormente también en las exposiciones. </li>\n<li>Lugar: Laboratorio de química</li>\n</ul>\n<p><strong>Material: </strong></p>\n<ul>\n<li>Material de laboratorio.</li>\n<li>Reactivos. </li>\n<li>Cuaderno del alumno.</li>\n</ul>\n<p><strong>Prácticas a realizar por grupos:</strong> </p>\n<ol>\n<li>Quitar manchas de óxido en tela según la cultura tradicional, con sustancias naturales, mejores para el medioambiente. </li>\n<li>Disolución de CuSO4 para cristalizar, demostrando un cambio físico, no químico de la sustancia. </li>\n<li>Limpieza de plata usando bicarbonato, buscando la reacción que se produce. </li>\n<li>Teñir una tela con sal añadida y otra sin ella, para fijar el color y observar las diferencias. </li>\n<li>Preparar jabón con método tradicional. Buscar la reacción que se produce.</li>\n<li>Investigar la reacción de la cal (ampliamente usada en Andalucía) y el uso del vinagre para limpiar los cristales. </li>\n</ol>\n<p>Tras la realización de la práctica es importante que cada grupo deje ordenado y limpio su puesto de trabajo, manteniendo siempre las normas de seguridad en el laboratorio. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777539753505-elykwfc78</odePageId>
+  <odeParentPageId>page-1777539634710-wnhswqmwg</odeParentPageId>
+  <pageName>2. Creación de las presentaciones y el mural </pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Creación de las presentaciones y el mural </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777539753505-elykwfc78</odePageId>
+      <odeBlockId>block-1777541186266-2wschd6c6</odeBlockId>
+      <blockName>Presentaciones y murales</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777539753505-elykwfc78</odePageId>
+          <odeBlockId>block-1777541186266-2wschd6c6</odeBlockId>
+          <odeIdeviceId>idevice-1777541186263-2jkmvb0l5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p></p>
+<figure class="exe-figure position-center"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_Presentaciones y murales.png" width="100%" alt="" />
+<figcaption class="figcaption"><span class="author">Imagen generada con IA. </span>. <span class="title"><em>Creando las presentaciones y los murales. </em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Gemini / Nanobanana. Uso educativo. </span><span class="sep">)</span></span></figcaption>
+</figure>
+<p><strong>Organización: </strong></p>
+<ul>
+<li>Manteniendo los mismo grupos de la práctica de laboratorio.</li>
+<li>Tiempo:
+<ul>
+<li>Búsqueda web y presentaciones: 3 horas.</li>
+<li>Elaboración mural: 3 horas.</li>
+</ul>
+</li>
+<li>Material: 
+<ul>
+<li>Web y ordenadores portátiles. </li>
+<li>Pizarra digital.</li>
+<li>Genially/ Canva o similares.</li>
+<li>Cartulina y fotos impresas. </li>
+</ul>
+</li>
+</ul>
+<p>Las presentaciones y los murales serán de las siguientes temáticas:</p>
+<ol>
+<li>La cara de la química.</li>
+<li>La cruz de la química.</li>
+<li>La plaga de los plásticos. </li>
+<li>La emergencia climática.</li>
+<li>Sustancias naturales, sintéticas e innovadoras. </li>
+<li>Empresas químicas y de reciclaje en Andalucía. </li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777541186263-2jkmvb0l5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p></p>\n<figure class=\"exe-figure position-center\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_Presentaciones y murales.png\" width=\"100%\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Imagen generada con IA. </span>. <span class=\"title\"><em>Creando las presentaciones y los murales. </em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Gemini / Nanobanana. Uso educativo. </span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><strong>Organización: </strong></p>\n<ul>\n<li>Manteniendo los mismo grupos de la práctica de laboratorio.</li>\n<li>Tiempo:\n<ul>\n<li>Búsqueda web y presentaciones: 3 horas.</li>\n<li>Elaboración mural: 3 horas.</li>\n</ul>\n</li>\n<li>Material: \n<ul>\n<li>Web y ordenadores portátiles. </li>\n<li>Pizarra digital.</li>\n<li>Genially/ Canva o similares.</li>\n<li>Cartulina y fotos impresas. </li>\n</ul>\n</li>\n</ul>\n<p>Las presentaciones y los murales serán de las siguientes temáticas:</p>\n<ol>\n<li>La cara de la química.</li>\n<li>La cruz de la química.</li>\n<li>La plaga de los plásticos. </li>\n<li>La emergencia climática.</li>\n<li>Sustancias naturales, sintéticas e innovadoras. </li>\n<li>Empresas químicas y de reciclaje en Andalucía. </li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777541671343-nntbkcsey</odePageId>
+  <odeParentPageId>page-1777539634710-wnhswqmwg</odeParentPageId>
+  <pageName>3. Presentación oral</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Presentación oral</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777541671343-nntbkcsey</odePageId>
+      <odeBlockId>block-1777541780888-k8zo34whp</odeBlockId>
+      <blockName>Presentación oral</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777541671343-nntbkcsey</odePageId>
+          <odeBlockId>block-1777541780888-k8zo34whp</odeBlockId>
+          <odeIdeviceId>idevice-1777541780886-8ze7n2c2j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_Presentaciones orales.png" width="100%" alt="" />
+<figcaption class="figcaption"><span class="author">Imagen generada con IA. </span>. <span class="title"><em>Presentaciones orales </em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Gemini / Nanobanana. Uso educativo.</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Organización:</p>
+<ul>
+<li>Lugar: aula.</li>
+<li>Tiempo: 3 horas.</li>
+<li>Material: 
+<ul>
+<li>Pizarra digital.</li>
+<li>Murales creados por los alumnos. </li>
+</ul>
+</li>
+</ul>
+<p>Mantendremos tanto los grupos como las temáticas mencionadas en el punto anterior de la línea temporal.</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777541780886-8ze7n2c2j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_Presentaciones orales.png\" width=\"100%\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Imagen generada con IA. </span>. <span class=\"title\"><em>Presentaciones orales </em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Gemini / Nanobanana. Uso educativo.</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Organización:</p>\n<ul>\n<li>Lugar: aula.</li>\n<li>Tiempo: 3 horas.</li>\n<li>Material: \n<ul>\n<li>Pizarra digital.</li>\n<li>Murales creados por los alumnos. </li>\n</ul>\n</li>\n</ul>\n<p>Mantendremos tanto los grupos como las temáticas mencionadas en el punto anterior de la línea temporal.</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777539765797-aq1c6y5yu</odePageId>
+  <odeParentPageId>page-1777539634710-wnhswqmwg</odeParentPageId>
+  <pageName>4. Visita Isla Verde</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Visita Isla Verde</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. Visita Isla Verde</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777539765797-aq1c6y5yu</odePageId>
+      <odeBlockId>block-1777542288519-d9psmd6xz</odeBlockId>
+      <blockName>Visita Isla Verde</blockName>
+      <iconName>nature</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777539765797-aq1c6y5yu</odePageId>
+          <odeBlockId>block-1777542288519-d9psmd6xz</odeBlockId>
+          <odeIdeviceId>idevice-1777542288516-2mtwgpars</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<figure class="exe-figure position-center"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_Visita Isla Verde.png" width="100%" alt="" />
+<figcaption class="figcaption"><span class="author">Imagen generada por IA.</span>. <span class="title"><em>Visita a Isla Verde.</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Gemini / Nanobanana. Uso educativo. </span><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Los alumnos visitarán Isla Verde, en Granada, llevando consigo un cuaderno que usarán para anotar y sacar conclusiones. La visita tendrá una duración aproximada de dos horas. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777542288516-2mtwgpars","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<figure class=\"exe-figure position-center\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_Visita Isla Verde.png\" width=\"100%\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Imagen generada por IA.</span>. <span class=\"title\"><em>Visita a Isla Verde.</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Gemini / Nanobanana. Uso educativo. </span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Los alumnos visitarán Isla Verde, en Granada, llevando consigo un cuaderno que usarán para anotar y sacar conclusiones. La visita tendrá una duración aproximada de dos horas. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777542437203-0q3ht5axq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777542437203-0q3ht5axq</odePageId>
+      <odeBlockId>block-1777542524407-rciyjjvt4</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777542437203-0q3ht5axq</odePageId>
+          <odeBlockId>block-1777542524407-rciyjjvt4</odeBlockId>
+          <odeIdeviceId>idevice-1777542524405-ld3d090l5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Los instrumentos de evaluación están diseñados para valorar de forma integral el proceso y resultados del alumnado. Se evaluará tanto el producto final como el desarrollo de habilidades y la organización de datos, así como la capacidad de trabajar en equipo. La evaluación se hará de forma continua y formativa, fomentando la participación activa del alumnado, favoreciendo el desarrollo de su autonomía, responsabilidad y consciencia sobre el proceso de aprendizaje de esta temática. </p>
+<figure class="exe-figure exe-media position-center" style="width: 1073px;" id="fig_syfng5xed"><iframe width="1073" height="592" src="{{context_path}}/content/resources/8. Instrumentos de Evaluación .docx (1).pdf" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">Esther Narváez Fernández</span></figcaption>
+</figure>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777542524405-ld3d090l5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Los instrumentos de evaluación están diseñados para valorar de forma integral el proceso y resultados del alumnado. Se evaluará tanto el producto final como el desarrollo de habilidades y la organización de datos, así como la capacidad de trabajar en equipo. La evaluación se hará de forma continua y formativa, fomentando la participación activa del alumnado, favoreciendo el desarrollo de su autonomía, responsabilidad y consciencia sobre el proceso de aprendizaje de esta temática. </p>\n<figure class=\"exe-figure exe-media position-center\" style=\"width: 1073px;\" id=\"fig_syfng5xed\"><iframe width=\"1073\" height=\"592\" src=\"{{context_path}}/content/resources/8. Instrumentos de Evaluación .docx (1).pdf\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">Esther Narváez Fernández</span></figcaption>\n</figure>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777543143927-8f851jj0c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777543143927-8f851jj0c</odePageId>
+      <odeBlockId>block-1777543254072-b7eni21xb</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777543143927-8f851jj0c</odePageId>
+          <odeBlockId>block-1777543254072-b7eni21xb</odeBlockId>
+          <odeIdeviceId>idevice-1777543254070-fpi115ffp</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SDA.Química y medioambiente</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">En este proyecto combinaremos Química y Medioambiente, aprendiendo como se benefician y dañan mutuamente la una de la otra y cómo se utilizan de forma conjunta desde hace siglos para diferentes cosas que usamos día a día en nuestra vida. </span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Trinidad Esther Narváez Fernández</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
